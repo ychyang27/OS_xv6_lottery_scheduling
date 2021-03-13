@@ -6,5 +6,5 @@
 - cpu의 default 값을 single core로 바꿔서 편향적이지 않은 ticketting을 가능케했다.
 - syscall.h,syscall.c,user.h,usys.S,sysproc.c,proc.h,proc.c (modified)
 - lottest.c,check_rand.c (added) -> test용
-> 
+>>
 - pdf 리포트
